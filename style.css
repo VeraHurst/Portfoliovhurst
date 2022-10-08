@@ -1,0 +1,19 @@
+#about-me {
+    border: 1px solid red;
+}
+
+#my-work {
+    border: 1px solid green;
+}
+
+#contact {
+    border: 1px solid blue;
+}
+
+.small-img {
+    width: 300px;
+}
+
+#main-img {
+    width: 700px;
+}
