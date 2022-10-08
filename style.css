@@ -1,9 +1,37 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+nav {
+    margin: auto 0;
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+}
+
+
+
 #about-me {
     border: 1px solid red;
+    display: flex;
+    display: flex;
+    justify-content: space-around;
+}
+
+#about-me img, #about-me p {
+    width: 40%;
 }
 
 #my-work {
     border: 1px solid green;
+
+}
+
+.myworkbox {
+    width: 70%;
+    margin: 0 auto;
 }
 
 #contact {
